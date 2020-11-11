@@ -1,0 +1,26 @@
+.navigation{
+    padding-top: 30px;
+    max-width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100px;
+    .sectionMenu{
+        min-width: 30%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 30px 0;
+    //    li{
+    //     display: block;
+    //     a{
+    //         display: block;
+    //     }
+    //    }
+
+    }
+    img {
+        width: 160px;
+        height: 160px;
+    }
+}
